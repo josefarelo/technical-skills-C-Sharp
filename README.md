@@ -9,3 +9,7 @@ _Conocer unos cinco o seis tipos de datos._
 - variables.cs
 
 _Declarar variables y luego establecer y recuperar valores de esas variables._
+
+- character-escape-sequences.cs
+
+_Aplicar formato a las cadenas con caracteres especiales y combinar cadenas mediante técnicas diferentes_
