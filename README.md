@@ -2,7 +2,10 @@
 
 ## 01 - Fundamentos de C#
 
-- literal-values.cs
+- data-types.cs
 
 _Conocer unos cinco o seis tipos de datos._
 
+- variables.cs
+
+_Declarar variables y luego establecer y recuperar valores de esas variables._
