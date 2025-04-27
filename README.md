@@ -21,3 +21,7 @@ _Realizar operaciones básicas en datos numéricos_
 - control-flow.cs
 
 _Uso de instrucciones if, else if y else_
+
+- storage-and-loops.cs
+
+_Utilizar bucles y manipular arrays_
