@@ -29,3 +29,7 @@ _Utilizar bucles y manipular arrays._
 - flow-branch.cs
 
 _Agregar lógica de bifurcación utilizando switch-case._
+
+- data-conversion.cs
+
+_Usar varias técnicas diferentes para cambiar el tipo de datos de un valor determinado._
