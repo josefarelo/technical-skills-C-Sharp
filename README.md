@@ -33,3 +33,7 @@ _Agregar lógica de bifurcación utilizando switch-case._
 - data-conversion.cs
 
 _Usar varias técnicas diferentes para cambiar el tipo de datos de un valor determinado._
+
+- array-auxiliary-methods.cs
+
+_Métodos auxiliares para usar matrices de forma más eficaz._
