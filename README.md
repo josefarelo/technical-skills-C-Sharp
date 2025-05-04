@@ -37,3 +37,7 @@ _Usar varias técnicas diferentes para cambiar el tipo de datos de un valor dete
 - array-auxiliary-methods.cs
 
 _Métodos auxiliares para usar matrices de forma más eficaz._
+
+- string-search-methods.cs
+
+_Métodos para identificar la posición de un carácter dentro de cadenas._
