@@ -41,3 +41,7 @@ _Métodos auxiliares para usar matrices de forma más eficaz._
 - string-search-methods.cs
 
 _Métodos para identificar la posición de un carácter dentro de cadenas._
+
+- debugging-and-exceptions.cs
+
+_Implementar un patrón try-catch y crear y desencadenar excepciones que se capturen en un nivel inferior de la pila de llamadas._
